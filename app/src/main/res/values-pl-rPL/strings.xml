@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MPoznan</string>
+    <string name="title_activity_map">MPoznan</string>
+    <string name="snippetText">Rowerów: %1$s, wolnych stojaków: %2$s</string>
+    <string name="locationPermText">Włącz usługę lokalizacji w ustawieniach telefonu.</string>
+    <string name="fetchErrorText">Nie można pobrać stacji rowerowych. Następna próba za %1$d sek...</string>
+    <string name="noStationsText">Pobrano 0 stacji rowerowych. Następna próba za %1$d sek...</string>
+</resources>

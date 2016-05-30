@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MPoznan</string>
+    <string name="title_activity_map">MPoznan</string>
+    <string name="snippetText">Bikes: %1$s, free racks: %2$s</string>
+    <string name="locationPermText">Enable location permissions in your phone settings.</string>
+    <string name="fetchErrorText">Cannot fetch bike stations. Retry in %1$d sec...</string>
+    <string name="noStationsText">Fetched 0 bike stations. Retry in %1$d sec...</string>
+</resources>
